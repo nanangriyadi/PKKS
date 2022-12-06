@@ -1,7 +1,7 @@
   <section id="about" class="s-about target-section">
        <div class="row bit-narrow" data-aos="fade-up">
             <div class="col-full">
-                <h3 class="subhead">Portofolio Kelompok I</h3>
+              <h3 class="subhead">Portofolio Kelompok I</h3>
                 <p>Kami Siap Dinilai.</p>
                 <p>
                 Dengan mengucapkan بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ  untuk mengawali Pelaksanaan PKKS tahun 2022, kami telah menyiapkan berkas yang dibutuhkan guna kelancaran PKKS 2022.
@@ -189,8 +189,8 @@
 
         <h5>Call Me At</h5>
 
-        <p>Phone: (+62) 352 752434<br>
-          Mobile: (+62) 852 3553 4605<br>
+        <p>Phone: (+62) 352 <br>
+          Mobile: (+62) 852 <br>
             Fax: 
          </p>
 
