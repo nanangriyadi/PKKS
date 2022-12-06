@@ -22,7 +22,7 @@
                 Ponorogo, Jawa Timur   
                 </p>
                 <p class="contact-numbers">
-                +62 352 752434 &nbsp; +62 85235534605
+                +62 352 7 &nbsp; +62 85
                 </p>
 
                 <ul class="contact-social">
